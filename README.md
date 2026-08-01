@@ -1,11 +1,11 @@
 <h1 align="center">🚀 Python Developer 🐍</h1>
 <h1 align="center">Hi 👋, I'm Keshav Kumar</h1>
-<h3 align="center">🚀 ECE Student | AI & Tech Enthusiast</h3>
+<h3 align="center">🚀 CS Student | AI & Tech Enthusiast</h3>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 ECE Student exploring Tech & Innovation  
+- 🎓 CS Student exploring Tech & Innovation  
 - 🤖 Interested in AI/ML & Real-world Projects  
 - 🛠️ Building projects like Smart Parking System  
 - 📚 Currently learning: DSA, System Design, AI  
